@@ -14,8 +14,8 @@ class GIFShower(QtWidgets.QWidget):
         self.old_pos = None
         self.mouse_pos = None
 
-        self.setWindowTitle("GIF Shower")
-        self.setAccessibleName("GIF Shower")
+        self.setWindowTitle("DancyChan")
+        self.setAccessibleName("DancyChan")
         self.setWindowIcon(QtGui.QIcon(self.gif_path))
 
         self.setWindowFlags(QtCore.Qt.FramelessWindowHint)
