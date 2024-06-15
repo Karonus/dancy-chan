@@ -1,4 +1,4 @@
-# GIF Shower
+# DancyChan
 
 ---
 
